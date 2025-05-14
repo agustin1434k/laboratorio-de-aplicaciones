@@ -1,0 +1,67 @@
+#titulo {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.caja {
+  background-color: #f9f9f9;
+  margin: 15px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+#principal {
+  background-color: #2196F3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.bloque {
+  background-color: #e3f2fd;
+  margin: 15px;
+  padding: 20px;
+  border-left: 5px solid #2196F3;
+}
+
+#cabecera {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.seccion {
+  background-color: #f2f2f2;
+  margin: 10px;
+  padding: 15px;
+}
+
+#pie {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.tarjeta {
+  border: 2px solid #555;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  background-color: #e0f7fa;
+  width: 250px;
+  font-family: Arial, sans-serif;
+}
+
+
